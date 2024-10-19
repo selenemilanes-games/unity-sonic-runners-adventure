@@ -1,0 +1,12 @@
+Puedo hacer que el Silver Sonic dispare sus bolas y que si choca con una bola de Sonic, sea random el hecho de que destruya la bola de Sonic o la de Sonic destruya la de SS. Para hacerlo más complicado.
+
+Con una tecla, que el Sonic pueda correr más rápido o aumentar la velocidad del Sonic cada x tiempo.
+
+Que el Eggman aparezca de vez en cuando.
+
+Más diversidad de posiciones de los diamantes.
+
+QUE EL EGGMAN DE LOS RINGS DE UNA VUELTA CUANDO EL SONIC BOLA LE GOLPEE.
+
+AÑADIR BOTÓN DE PAUSA EN LA PRIMERA SCENE:
+https://gist.github.com/ealbinu/5541982

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6e124a0f0a1e4b43b81334d9edc7af2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NiseSegaSonic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3d2e62ced5b70e47ab3a5ace25f7334, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
