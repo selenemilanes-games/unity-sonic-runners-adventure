@@ -40,6 +40,6 @@ _Incluye:_
 
 <br>
 
-### <img src="resources/Crocodile.gif" alt="Cocodrilo Super Pang" width="45" height="45"> No dudes en contactarme para cualquier duda o inquietud 
+### <img src="/Assets/Sprites/SonicRunning.gif" alt="Cocodrilo Super Pang" width="45" height="45"> No dudes en contactarme para cualquier duda o inquietud 
 <a href="https://www.linkedin.com/in/selene-milanes-rodriguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/Selene Milanés Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:selene.milanes@hotmail.com"> <img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
