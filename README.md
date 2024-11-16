@@ -25,9 +25,9 @@ Videojuego realizado durante el primer año de Grado Superior de Desarrollo de A
 [![Watch the video](https://img.youtube.com/vi/rw_9Tqsh89M/maxresdefault.jpg)](https://youtu.be/rw_9Tqsh89M)
 
 ## ©️ Créditos
-- Idea y desarrollo original: Sonic Team y Gameloft
-- Desarrollo: Selene Milanés
-- Arte: los derechos de autor de los assets pertenecen a sus creadores
+- Desarrollo: Selene Milanés.
+- Idea y desarrollo original: Sonic Team y Gameloft.
+- Arte: los derechos de autor de los assets pertenecen a sus creadores.
 
 ---------------------
 > Este proyecto es una version educativa del videojuego Sonic Runners Adventure, desarrollado como parte de mi aprendizaje en el desarrollo de videojuegos con Java. Quiero aclarar que este trabajo es estrictamente no comercial y ha sido creado con fines educativos para mejorar mis habilidades en programación y diseño de juegos.
