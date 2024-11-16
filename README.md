@@ -1,14 +1,14 @@
 # 👟 Mini Sonic Runners Adventure (versión del juego Sonic Runners Adventure) 👟
 Versión del juego [Sonic Runners Adventure](https://es.wikipedia.org/wiki/Sonic_Runners_Adventure) donde el objetivo es conseguir hasta 20.000 puntos (o más) y hasta 50 rings (o más) para poder derrotar al Dr. Eggman.
 
-## Descripción
+## 📄 Descripción
 Videojuego realizado durante el primer año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma + Perfil videojuegos y ocio digital (DAMvi). 
 
 _Objetivo:_
 - Nivel 1: Consigue hasta 20.000 puntos (o más) y hasta 50 rings (o más) evitando a los ataques de los Silver Sonic y sus pinchos.
 - Nivel 2 (final boss): Derrota al Dr. Eggman evitando sus proyectiles.
 
-## Controles  
+## 🎮 Controles  
 > Movimiento:
 >> Izquierda: [A]. <br> </b> Derecha: [D].
 <br>
@@ -18,7 +18,8 @@ _Objetivo:_
 > Atacar (Sonic bola): [M]. <br>
   
 ## Tecnologías
-![Unity](https://img.shields.io/badge/Unity-007396?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Gameplay (‼️ haz clic en la imagen para ver el vídeo ‼️)
 [![Watch the video](https://img.youtube.com/vi/rw_9Tqsh89M/maxresdefault.jpg)](https://youtu.be/rw_9Tqsh89M)
