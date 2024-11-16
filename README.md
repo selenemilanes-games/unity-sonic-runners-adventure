@@ -21,7 +21,7 @@ Videojuego realizado durante el primer año de Grado Superior de Desarrollo de A
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## Gameplay (‼️ haz clic en la imagen para ver el vídeo ‼️)
+## 📽️ Gameplay (haz clic en la imagen para ver el vídeo)
 [![Watch the video](https://img.youtube.com/vi/rw_9Tqsh89M/maxresdefault.jpg)](https://youtu.be/rw_9Tqsh89M)
 
 ## ©️ Créditos
