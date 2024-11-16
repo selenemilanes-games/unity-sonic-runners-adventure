@@ -4,7 +4,7 @@ Versión del juego [Sonic Runners Adventure](https://es.wikipedia.org/wiki/Sonic
 ## Descripción
 Videojuego realizado durante el primer año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma + Perfil videojuegos y ocio digital (DAMvi). 
 
-_Incluye:_
+_Objetivo:_
 - Nivel 1: Consigue hasta 20.000 puntos (o más) y hasta 50 rings (o más) evitando a los ataques de los Silver Sonic y sus pinchos.
 - Nivel 2 (final boss): Derrota al Dr. Eggman evitando sus proyectiles.
 
